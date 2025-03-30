@@ -1,0 +1,14 @@
+INSERT INTO Genre (name) VALUES
+('Progressive Rock'),
+('Psychedelic Rock'),
+('Glam Rock'),
+('Pop Rock'),
+('Hard Rock'), 
+('Alternative Rock'),
+('Pop, Soft Rock'),
+('Heavy Metal'),
+('Doom Metal'),
+('Grunge'),
+('Pop'),
+('Folk'),
+('Disco');

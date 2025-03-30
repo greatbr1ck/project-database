@@ -1,0 +1,16 @@
+INSERT INTO Movie (title, year) values
+('Megamind', 2010),
+('Goodfellas', 1990),
+('Wayne`s World', 2009),
+('Highlander', 1986),
+('Back to the Future', 1985),
+('Iron Man', 2008),
+('Pulp Fiction', 1994),
+('Harry Potter and the Deathly Hallows – Part 1', 2010),
+('Guardians of the Galaxy', 2014),
+('Eternal Sunshine of the Spotless Mind', 2004),
+('The Gentlemen', 2019),
+('You`ve Got Mail', 1998),
+('Skyfall', 2012),
+('Armageddon', 1998),
+('Fantasic Mr. Fox', 2009);

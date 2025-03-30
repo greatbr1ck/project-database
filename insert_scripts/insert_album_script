@@ -1,0 +1,18 @@
+INSERT INTO Album (title, year) VALUES
+('A Night at the Opera', 1975),
+('A Kind of Magic', 1986),
+('News of the World', 1977),
+('The Game', 1980),
+('The Works', 1984),
+('Innuendo', 1991),
+('Bohemian Rhapsody', 2018), 
+('The Wall', 1979),
+('Animals', 1977),
+('The Dark Side of the Moon', 1973),
+('The Division Bell', 1994),
+('Physical Graffiti', 1975),
+('Led Zeppelin', 1969),
+('Houses of the Holy', 1973),
+('Led Zeppelin III', 1970),
+('Nevermind', 1991),
+('Poor David`s Almanack', 2017);
